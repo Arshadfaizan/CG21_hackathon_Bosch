@@ -6,7 +6,7 @@
 | Md. Adnan Jakati      | [JACKHAX](https://github.com/jackhax)       |
 | Md. Arshad Faizan   | [Arshadfaizan](https://github.com/arshadfaizan)|
 | Moin Khan  |         |
-| Manjushree Kocharekar   | [manjushree-07](https://github.com/majushree-07)        |
+| Manjushree Kocharekar   | [manjushree-07](https://github.com/manjushree-07)        |
 | Smrithi Rane | [sVRane28](https://github.com/svRane28)        |
 
 ### This Github repository is made in accordance with the submission for Bosch AI Hackathon 2021
